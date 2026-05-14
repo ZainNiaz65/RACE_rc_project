@@ -1,0 +1,10 @@
+Metric,Value
+Training Samples,87866
+Dev Samples,87866
+Test Samples,87866
+Avg Article Length (words),274.98370245601257
+Avg Question Length (words),10.008786106116132
+Avg Option Length (words),5.441251451073225
+Vocabulary Size,44491
+Unique Questions,72439
+Answer Balance,~25% each
